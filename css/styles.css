@@ -6,8 +6,10 @@ h2.intro{
   color: blue;
 }
 
-p.intro{
+div.intro{
   font-family: sans-serif;
+  color: purple;
+
 }
 
 img.intro{
@@ -15,4 +17,8 @@ img.intro{
   border-radius: 4px;
   padding: 5px;
   width: 500px;
+}
+span.italic {
+  font-style: italic;
+  background-color: yellow;
 }
